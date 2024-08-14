@@ -1,0 +1,15 @@
+Nomad.NET is a free file manager for Windows based on .NET.
+
+Nomad.NET is covered by the license in the following file:
+
+LICENSE-Nomad.NET-Application.txt
+
+
+
+Nomad.NET Setup is an installer built using Inno Setup for installing
+Nomad.NET.
+
+Nomad.NET Setup is covered by the MIT license in the following
+file:
+
+LICENSE-Nomad.NET-Setup.txt
